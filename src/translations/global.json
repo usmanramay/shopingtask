@@ -1,0 +1,16 @@
+{
+  "appName": {
+    "title": ["Pakistan's Largest Marketplace", "Pakistan se grootste markplek"]
+  },
+  "headerButton":{
+    "langTitle":["language","taal"],
+    "homeTitle":["Home","Huis"],
+    "signUpTitle":["SignUp","Tekenaan"],
+    "logoutTitle":["logout","teken uit"],
+    "signInTitle":["Login","geverifieerde"],
+    "profileTitle":["profile","profiel"],
+    "myAdsTitle":["My Ads","my advertensies"],
+    "postAdTitle":["Post Ad","plaas advertensie"]
+
+  }
+}
